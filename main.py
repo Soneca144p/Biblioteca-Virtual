@@ -23,4 +23,4 @@ def Call_Create_livro():
 
 @app.put("/livros")
 def Call_Edit_livro():
-    return EDIT_livro()
+    return EDIT_livro(2, "Titulo", "ADMIRÁVEL MUNDO NOVO")

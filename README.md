@@ -90,11 +90,11 @@ Após iniciar a aplicação, a documentação interativa estará disponível em:
 * Listagem de livros
 * Banco de dados SQLite
 * API REST com FastAPI
+* Atualizar informações de um livro
 
 ### Em desenvolvimento
 
 * Buscar livro por ID
-* Atualizar informações de um livro -> FAZENDO
 * Excluir livros
 * Pesquisa por título e autor
 * Filtros por status de leitura
